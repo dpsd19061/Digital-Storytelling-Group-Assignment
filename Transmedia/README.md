@@ -140,11 +140,43 @@
 
 --> Όχι δεν δίνει χώρο για επιπλέον προσθήκη.
 
-###  5.8. Do the extensions have the ability to spread the content and also to provide the possibility to explore the narrative in-depth?
+### 5.8. Do the extensions have the ability to spread the content and also to provide the possibility to explore the narrative in-depth?
 
 --> Ναι, το zine συμβάλει στο να διαδοθεί η επιπλέον και κρυμμένη πληροφορία της ταινίας και στην εμβάθυνση της.
 
 ## 6. Media platforms and genres
+
+### 6.1. What kind of media platforms (film, book, comics, games, and so forth) are involved in the project? 
+
+--> Το project αποτελείται από μια ταινία μικρού μήκους και ένα zine.
+
+### 6.2. Which devices (computer, game console, tablet, mobile phone, etc.) are required by the project? 
+
+--> Το project πρόκειται για μια ψηφιακή ταινία μικρού μήκους. Θα χρησιμοποιηθούν υπολογιστής και κινητό.
+
+### 6.3. How each platform is participating and contributing to the whole project? What are their functions in the project? 
+
+--> Η ταινία θα είναι διαθέσιμη στο κοινό μέσω της πλατφόρμας του YouTube. 
+
+### 6.4. What are the distinctive characteristics of each media platform? 
+
+--> Το χαρακτηριστικό που μας ώθησε να επιλέξουμε την συγκεκριμένη πλατφόρμα είναι η άμεση πρόσβαση που προσφέρει στο ευρύ κοινό. 
+
+### 6.5. Identify problems that are specific of each medium. 
+
+--> Τα προβλήματα που επικρατούν στην καταγραφή των σκηνών είναι η τοποθεσία των γυρισμάτων, οι οικονομικοί και οι χρονικοί περιορισμοί.
+
+### 6.6. Is each medium really relevant to the project? 
+
+--> Η ταινία και το zine έχουν άμεση συσχέτιση μεταξύ τους, αφού το zine απορρέει από την ταινία και απαντά στα ερωτήματα που έχουν δημιουργηθεί από το κοινό.
+
+### 6.7. What is the roll-out strategy to release the platforms? 
+
+--> Η στρατηγική προώθησης που θα ακολουθήσουμε θα εστιάσει στο διαμοιρασμό στα social media. 
+
+### 6.8. Which genres (action, adventure, detective, science fiction, fantasy, and so forth) are present in the project?
+
+--> The main genre of the film is horror. Folk horror and art horror are the sub-genres for the project. 
 
 ## 7. Audience and market
 
