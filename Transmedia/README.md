@@ -180,6 +180,38 @@
 
 ## 7. Audience and market
 
+### 7.1. What is the target audience of the project? Who is the intended VUP? 
+
+--> Το project εστιάζει στις ηλικίες 15 - 25, καθώς είναι η κύρια ομάδα που παρακολουθεί αυτό το είδος ταινιών.
+
+### 7.2. What kind of “viewers” (real-time, reflective, and navigational) does the project attract? 
+
+--> Το κοινό του project θα χαρακτηριστεί ως “navigational” επειδή το ενδιαφέρει όλα τα διαφορετικά μέρη που αποτελείται η ιστορία για να αποκτήσει την συνολική εικόνα του project. 0
+
+### 7.3. What kind of entertainment does the target audience enjoy? 
+
+--> Κινηματογράφος, παρακολούθηση ταινιών στο σπίτι, μουσική, βιντεοπαιχνίδια, ανάγνωση βιβλίων
+
+### 7.4. What kind of technology/devices are people in this group involved with? 
+
+--> Οι έφηβοι και οι νέοι ενήλικες είναι το κύριο απευθυνόμενο κοινό.  Οι φορητοί υπολογιστές, οι σταθεροί υπολογιστές, τα smartphones, τα tablet, η προβολή μέσω προτζέκτορα και τηλεόρασης είναι τα πιθανά συστήματα προβολής.  
+
+### 7.5. Why does this project appeal to them? 
+
+--> Το απευθυνόμενο κοινό βρίσκεται στη φάση της ζωής που αρχίζει να βιώνει το άγχος και τη μοναξιά. Επίσης, μπορεί να του προκαλεί ενδιαφέρον μια βίαιη και υπερβολική εικόνα ως μια ασυνήθιστη σκηνή. Αρκετά άτομα αναζητούν προσωπική λύτρωση μέσω αυτού του είδους ταινιών που συμβάλλουν στο να απαλλαγούν από την αρνητική τους ενέργεια. 
+
+### 7.6. Do other projects like this exist? Do they succeed in achieving their purpose? 
+
+--> Ναι υπάρχουν, πετυχαίνοντας κοινούς σκοπούς.
+
+### 7.7. What is the project’s business model? 
+
+--> Το project δεν αποσκοπεί σε κάποιο επιχειρηματικό πλάνο που επιδιώκει την χρηματική αποζημίωση αλλα ως πανεπιστημιακή εργασία.
+
+### 7.8. Revenue-wise, was the project successful? Why?
+
+--> Το project δεν είναι κερδοσκοπικό.
+
 ## 8. Engagement
 
 ## 9. Structure
