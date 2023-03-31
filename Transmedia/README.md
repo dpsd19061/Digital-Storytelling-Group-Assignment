@@ -55,7 +55,7 @@
 
 ### 2.8. Is it possible to identify intermedial texts in the story?
 
---> 
+--> -
 
 ## 3. Worldbuilding
 
