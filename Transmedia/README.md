@@ -214,6 +214,62 @@
 
 ## 8. Engagement
 
+### 8.1. Through what point of view (PoV) does the VUP experience this world: first-person, second person, third-person, or a mixture of them? 
+
+--> Το κοινό του Project θα χαρακτηριστεί ως “1st + 3d person PoV”. 
+
+### 8.2. What role does the VUP play in this project? 
+
+--> Το κοινό θα έχει τον ρόλο ενος αμέτοχου παρατηρητή εντός της ταινίας, παρουσιάζοντας μερικές σκηνές αλληλεπίδρασης μεταξύ κοινού - πρωταγωνιστή. 
+
+### 8.3. How does the project keep the VUP engaged? 
+
+--> Η κάμερα - κοινό ακολουθεί κρυφά τον πρωταγωνιστή από απόσταση δίνοντας τη δυνατότητα να παρατηρεί την δράση. Ξαφνικά το κοινό κάμερα παίρνει την θέση ενος χαρακτηρα. 
+
+### 8.4. What are the mechanisms of interaction in this project? 
+
+--> Στο project δεν θα υπάρξει κάποια επιπλέον αλληλεπίδραση από την παρακολούθηση της ταινίας και την ανάγνωση του zine.
+
+### 8.5. Is there also participation involved in the project? If so, how can the VUP participate in the open system? 
+
+--> Στο project δεν θα υπάρξει κάποια επιπλέον αλληλεπίδραση από την παρακολούθηση της ταινίας και την ανάγνωση του zine.
+
+### 8.6. Does the project work as a cultural attractor/activator? 
+
+--> Το project λειτουργεί ως cultural activator καθώς παρακινεί το κοινό να έρθει στην θέση του πρωταγωνιστή , να ταυτιστεί και να προβληματιστεί.
+
+### 8.7. How does the VUP affect the outcome? What do they add to the storyworld? 
+
+--> Το κοινο δεν επηρεάζει το αποτέλεσμα.
+
+### 8.8. Are there UGC related to the story (parodies, recaps, mashups, fan communities, etc.)? 
+
+--> Δεν υπάρχει κάποιο UGC περιεχόμενο στο project.
+
+### 8.9. Does the project offer the VUP the possibility of immersion into the storyworld? 
+
+--> Το project δινει την δυνατότητα εισαγωγής του κοινού στον κόσμο της ταινίας. Το κοινό μπαίνει στην θέση του αναδυόμενου από το έδαφος πλάσματος. Το πλάσμα είναι η αντανάκλαση του ίδιου του πρωταγωνιστή. Άρα το κοινο ταυτίζεται άμεσα με τον πρωταγωνιστή. 
+
+### 8.10. Does the project offer the VUP the possibility to take away elements of the story and incorporate them into everyday life? 
+
+--> Όχι, άμεσα αλλά μπορεί να λειτουργήσει ως τροφή για σκέψη.
+
+### 8.11. Is there an important goal that the VUP is trying to accomplish in the project? 
+
+--> Όχι, απλώς παρακολουθεί την ταινία. Στόχος που έχει τεθεί είναι να προκαλέσει την αυτοκριτική του κοινού.
+
+### 8.12. What will make the VUP want to spend time accomplishing this goal? 
+
+--> Δεν υπάρχει κάποιος στόχος για το κοινό.
+
+### 8.13. What adds tension to the experience? Are there any ticking clocks? 
+
+--> Τα στοιχεία που προσθέτουν ένταση στην εμπειρία είναι τα ατμοσφαιρικά πλάνα, στυλιστικά στοιχεία στον χώρο και στο σώμα, η εμφάνιση του πλάσματος, η σκηνοθετική χρήση των χρωμάτων και ήχων, η αλληλεπίδραση του πλάσματος με το πρωταγωνιστή και η αναγνώριση της συνολικής ταύτισης. 
+
+### 8.14. Is there a system of rewards and penalties?
+
+--> Όχι δεν υπάρχει κάποιο σύστημα ανταμοιβής και ποινής.
+
 ## 9. Structure
 
 ## 10. Aesthetics
