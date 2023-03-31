@@ -272,6 +272,34 @@
 
 ## 9. Structure
 
+### 9.1. When did the transmediation begin? Is it a pro-active or retroactive TS project? 
+
+--> Το project θεωρείται pro-active αφού η ταινία και το zine δημιουργούνται παράλληλα, αφηγώντας την ιστορία ως σύνολο.
+
+### 9.2. Is it possible to identify any consequences for the project caused by the fact that this is either a pro-active or a retroactive transmedia story? 
+
+--> Η σύνδεση της ταινίας και του zine ως ένα ενιαίο project δεν μπορει να επιφέρει κάποια επίπτωση. 
+
+### 9.3. Is this project closer to a transmedia franchise, a portmanteau transmedia story, or a complex transmedia experience? 
+
+--> Το project εντάσσεται στην “complex transmedia” εμπειρία, αφού αποτελείται από την ταινία μέσω της πλατφόρμας παρακολούθησης και του zine (υλικό μέσο).
+
+### 9.4. Can each extension work as an independent entry point for the story? 
+
+--> Το zine και η ταινία είναι αλληλένδετα. 
+
+### 9.5. What are/were possible endpoints of the project? 
+
+--> Η ιστορία δεν έχει κάποιο τελικό σημείο, παραμένει ανοιχτή για οποιαδήποτε επιπλέον προσθήκη. 
+
+### 9.6. How is the project structured? What are the major units of organization? 
+
+--> Η οργάνωση του Project βασίστηκε στις ερωτήσεις του προτεινόμενου άρθρου “Transmedia Project Design: Theoretical and Analytical Considerations”.
+
+### 9.7. How could a map of the storyworld be presented?
+
+--> Εσωτερικός κόσμος	→	Ψυχολογία	→Ταινία	→ zine
+
 ## 10. Aesthetics
 
 ### 10.1. What kinds of visuals are being used (animation, video, graphics, a mix) in the project? 
