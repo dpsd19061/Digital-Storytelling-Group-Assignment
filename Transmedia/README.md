@@ -273,3 +273,19 @@
 ## 9. Structure
 
 ## 10. Aesthetics
+
+### 10.1. What kinds of visuals are being used (animation, video, graphics, a mix) in the project? 
+
+--> Στην ταινία χρησιμοποιείται το βίντεο. Στο zine γίνεται χρήση γραφιστικών τεχνών.
+
+### 10.2. Is the overall look realistic or a fantasy environment? 
+
+--> Η συνολική εικόνα παρουσιάζει ένα ρεαλιστικό περιβάλλον το οποίο λαμβάνουν χώρα φανταστικά γεγονότα.
+
+### 10.3. Is it possible to identify specific design styles in the project? 
+
+--> Το κινημα από το οποίο είναι επηρεασμένο το project είναι ο Γερμανικός Εξπρεσιονισμός που χαρακτηρίζεται από την έντονη παρουσία των σκιών και την άρνηση της πραγματικότητας.
+
+### 10.4. How does audio work in this project? Is there ambient sound (rain, wind, traffic noises, etc.), sound effects, music, and so forth?
+
+--> Η μουσική και ο ήχος θα παίξει καθοριστικό ρόλο στην ταινία. Θα γίνει χρήση φυσικών ήχων οι οποίοι θα εξαρτώνται από το προβαλλόμενο περιβάλλον και θορυβώδεις ήχοι για  την διαμόρφωση της ατμόσφαιρας. Θα εισαχθούν ηχητικά στοιχεία τα οποία θα ακολουθούν δραστηριότητες όπως σκάψιμο, περπάτημα, κ.λπ
