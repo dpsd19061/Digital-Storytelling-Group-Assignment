@@ -3,7 +3,7 @@
 
 ### First and Last Name: Εύα Δοσδτογλου - Δημήτρης Καμπεράκης - Εθστράτιος Κουτουλακης - Ανδρέας Μπιρμπίλης
 ### University Registration Number: dpsd19032 - dpsd19044 - dpsd19061 - dpsd19080
-### GitHub Personal Profile: [xxx](https://github.com/merkourisa/Digital-Storytelling-Group-Assignment/discussions/1#discussioncomment-5360442)
+### GitHub Personal Profile: [veruca](https://github.com/merkourisa/Digital-Storytelling-Group-Assignment/discussions/1#discussioncomment-5360442)
 
 ## 1. Premise and purpose
 
