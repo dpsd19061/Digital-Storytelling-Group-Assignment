@@ -81,7 +81,7 @@
 
 ### 3.6. What challenges, dangers, or delights are inherent to this world?
 
--->
+--> Οι πρόκληση που πρόκειται να αντιμετωπιστεί είναι το πλάσμα που σχετίζεται με την εσωτερική διαμάχη του πρωταγωνιστή. 
 
 ### 3.7. Is the storyworld big enough to support expansions? 
 
