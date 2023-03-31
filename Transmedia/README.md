@@ -140,6 +140,10 @@
 
 --> Όχι δεν δίνει χώρο για επιπλέον προσθήκη.
 
+###  5.8. Do the extensions have the ability to spread the content and also to provide the possibility to explore the narrative in-depth?
+
+--> Ναι, το zine συμβάλει στο να διαδοθεί η επιπλέον και κρυμμένη πληροφορία της ταινίας και στην εμβάθυνση της.
+
 ## 6. Media platforms and genres
 
 ## 7. Audience and market
