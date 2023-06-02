@@ -1,9 +1,9 @@
 # Lesson: Digital Storytelling
 # Presentation Document
 
-### First and Last Name: xxx (all members of the team)
-### University Registration Number: dpsdxxxxx (all members of the team)
-### GitHub Personal Profile: xxx
+### First and Last Name: Εύα Δόστογλου - Δημήτρης Καμπεράκης - Ευστράτιος Κουτουλακης - Ανδρέας Μπιρμπίλης
+### University Registration Number: dpsd19032 - dpsd19044 - dpsd19061 - dpsd19080
+### GitHub Personal Profile: [veruca](https://github.com/merkourisa/Digital-Storytelling-Group-Assignment/discussions/1#discussioncomment-5360442)
 
 ![Screenshot](TeamDigitalStoryTelling.jpg)
 
@@ -29,4 +29,4 @@
 
 ![Screenshot](TeamDigitalStoryTelling(11).jpg)
 
-# [Movie](https://youtu.be/zwgSVXj_yWU)
+# [Link Ταινίας](https://youtu.be/zwgSVXj_yWU)
