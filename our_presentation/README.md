@@ -7,7 +7,7 @@
 
 ![Screenshot](TeamDigitalStoryTelling.jpg)
 
-![Screenshot](TeamDigitalStoryTelling (1).jpg)
+![Screenshot](TeamDigitalStoryTelling(1).jpg)
 
 ![Screenshot](TeamDigitalStoryTelling (2).jpg)
 
