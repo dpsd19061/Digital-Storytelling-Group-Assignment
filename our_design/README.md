@@ -164,6 +164,16 @@
 
 --> Το zine ως ένα μικρής διάστασης (Α5) βιβλίο, 14 σελίδων, περιέχει τα συμβολικά αντικείμενα που παρουσιάστηκαν στην ταινία από μια πιο κοντινή ματιά, καθω΄ς και μερικά στιγμιότυπα της. Παρακάτω παρουσιάζονται με την σειρά η κάθε σελίδα του zine.
 
+![Screenshot](TeamDigitalStoryTelling(6).jpg)
+
+![Screenshot](TeamDigitalStoryTelling(7).jpg)
+
+![Screenshot](TeamDigitalStoryTelling(8).jpg)
+
+![Screenshot](TeamDigitalStoryTelling(9).jpg)
+
+![Screenshot](TeamDigitalStoryTelling(10).jpg)
+
 ## 19. Casting
 
 --> Για το casting επιλέχθηκαν ατομα απο την ομάδα μας με βάση τον σωματότυπο που ταιριάζει καλύτερα σε κάθε χαρακτήρα.
